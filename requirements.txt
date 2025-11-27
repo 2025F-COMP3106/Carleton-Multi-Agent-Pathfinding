@@ -1,0 +1,8 @@
+osmnx
+networkx
+pandas
+numpy
+matplotlib
+scipy
+pytest
+scikit-fuzzy
