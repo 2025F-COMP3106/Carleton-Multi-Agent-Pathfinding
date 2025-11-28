@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3304",
+      "building": "Nesbitt Building",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "HIST3119",
+      "building": "St. Patrick's Building",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "ECON4437",
+      "building": "Tory Building",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    },
+    {
+      "class_name": "ECON3231",
+      "building": "Social Sciences Research Building",
+      "start_time": "18:05",
+      "end_time": "19:25"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP4903",
+      "building": "Azrieli Theatre",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PSYC4115",
+      "building": "Walkway",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

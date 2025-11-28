@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH3200",
+      "building": "The Minto Centre for Advanced Studies in Engineering",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "COMP4749",
+      "building": "Nideyin\u00e0n Centre",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "MATH4199",
+      "building": "Social Sciences Research Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    }
+  ]
+}

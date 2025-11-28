@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH3848",
+      "building": "Nideyin\u00e0n Centre",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "MATH3856",
+      "building": "Nesbitt Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

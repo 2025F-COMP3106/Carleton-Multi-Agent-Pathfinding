@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM4762",
+      "building": "Richcraft Hall",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "COMP4584",
+      "building": "St. Patrick's Building",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "ECON3657",
+      "building": "Alumni Hall",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "PHYS3365",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH4975",
+      "building": "Nesbitt Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "MATH4231",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "HIST4829",
+      "building": "Loeb Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    },
+    {
+      "class_name": "BUSI3746",
+      "building": "Nesbitt Building",
+      "start_time": "18:05",
+      "end_time": "19:25"
+    }
+  ]
+}

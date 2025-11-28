@@ -1,0 +1,34 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3330",
+      "building": "Athletics Building",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "COMP3796",
+      "building": "Alumni Hall",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "ECON3285",
+      "building": "Herzberg Laboratories",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "BUSI4605",
+      "building": "Mackenzie Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "COMP4997",
+      "building": "MacOdrum Library",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

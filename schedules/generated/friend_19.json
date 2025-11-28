@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC317",
+      "building": "Steacie Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "ECON4742",
+      "building": "Alumni Hall",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "BUSI3922",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "16:05",
+      "end_time": "17:25"
+    },
+    {
+      "class_name": "MATH349",
+      "building": "Richcraft Hall",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

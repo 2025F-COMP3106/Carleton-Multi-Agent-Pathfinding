@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3106",
+      "building": "Health Sciences Building",
+      "start_time": "08:35",
+      "end_time": "9:55"
+    },
+    {
+      "class_name": "gym",
+      "building": "Athletics Building",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    }
+  ]
+}

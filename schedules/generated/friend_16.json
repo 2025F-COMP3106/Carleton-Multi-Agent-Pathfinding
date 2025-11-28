@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4989",
+      "building": "Maintenance Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "COMP3974",
+      "building": "Herzberg Laboratories",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "HIST4485",
+      "building": "Social Sciences Research Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    },
+    {
+      "class_name": "HIST4596",
+      "building": "Azrieli Theatre",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3910",
+      "building": "Alumni Hall",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "BUSI456",
+      "building": "Canal Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PSYC4333",
+      "building": "Nesbitt Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

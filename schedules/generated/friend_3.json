@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI3433",
+      "building": "Alumni Hall",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "COMP4150",
+      "building": "Architecture Building",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "PSYC4710",
+      "building": "Engineering Design Center",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "PSYC3841",
+      "building": "Loeb Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

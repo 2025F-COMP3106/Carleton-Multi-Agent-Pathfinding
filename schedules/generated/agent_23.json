@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH4178",
+      "building": "Tory Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "PHYS3278",
+      "building": "Norm Fenn Gym",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "BUSI4480",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    },
+    {
+      "class_name": "COMP4802",
+      "building": "Maintenance Building",
+      "start_time": "17:35",
+      "end_time": "18:55"
+    }
+  ]
+}

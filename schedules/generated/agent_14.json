@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS325",
+      "building": "Richcraft Hall",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "PHYS391",
+      "building": "Engineering Design Center",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "BUSI3494",
+      "building": "Nesbitt Building",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4719",
+      "building": "Nesbitt Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "HIST4426",
+      "building": "Tennis Centre",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "CHEM4202",
+      "building": "Nideyin\u00e0n Centre",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

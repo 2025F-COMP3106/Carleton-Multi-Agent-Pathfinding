@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3743",
+      "building": "Paterson Hall",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "ECON3891",
+      "building": "Parking Garage (P18)",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "MATH338",
+      "building": "Engineering Design Center",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PSYC3265",
+      "building": "Steacie Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

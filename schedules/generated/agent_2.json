@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH433",
+      "building": "Engineering Design Center",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "PHYS3842",
+      "building": "Engineering Design Center",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "PHYS4836",
+      "building": "Tory Building",
+      "start_time": "16:05",
+      "end_time": "17:25"
+    },
+    {
+      "class_name": "PHYS4966",
+      "building": "Parking Garage (P18)",
+      "start_time": "18:05",
+      "end_time": "19:25"
+    }
+  ]
+}

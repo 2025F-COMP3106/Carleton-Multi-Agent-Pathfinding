@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS3909",
+      "building": "Azrieli Pavilion",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "PHYS4726",
+      "building": "Southam Hall",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    }
+  ]
+}

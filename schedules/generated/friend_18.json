@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON4996",
+      "building": "Engineering Design Center",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "HIST3988",
+      "building": "Azrieli Theatre",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    }
+  ]
+}

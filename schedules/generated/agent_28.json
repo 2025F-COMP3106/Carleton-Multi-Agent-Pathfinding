@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3469",
+      "building": "Azrieli Pavilion",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "ECON4382",
+      "building": "Tennis Centre",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    }
+  ]
+}

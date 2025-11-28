@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS3588",
+      "building": "Teraanga Commons",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "BUSI4729",
+      "building": "Teraanga Commons",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    }
+  ]
+}

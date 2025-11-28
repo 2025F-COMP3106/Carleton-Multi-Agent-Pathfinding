@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP433",
+      "building": "National Wildlife Research Centre",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "BUSI4142",
+      "building": "Loeb Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "HIST3283",
+      "building": "Southam Hall",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    },
+    {
+      "class_name": "HIST3149",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "17:35",
+      "end_time": "18:55"
+    }
+  ]
+}

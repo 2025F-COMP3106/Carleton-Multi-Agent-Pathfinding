@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3329",
+      "building": "Nicol Building",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "HIST3283",
+      "building": "Tory Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "BUSI3153",
+      "building": "Social Sciences Research Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "HIST4854",
+      "building": "Social Sciences Research Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

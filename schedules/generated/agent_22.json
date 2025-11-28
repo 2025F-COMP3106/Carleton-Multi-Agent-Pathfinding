@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST3788",
+      "building": "Human Computer Interaction Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "PSYC3578",
+      "building": "St. Patrick's Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "BUSI4359",
+      "building": "Alumni Hall",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "HIST3919",
+      "building": "Athletics Building",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    }
+  ]
+}

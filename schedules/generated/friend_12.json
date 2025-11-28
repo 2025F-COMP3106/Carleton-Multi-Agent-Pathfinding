@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON4477",
+      "building": "Loeb Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "MATH4513",
+      "building": "Steacie Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "PSYC4681",
+      "building": "Social Sciences Research Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    },
+    {
+      "class_name": "ECON3904",
+      "building": "Athletics Building",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

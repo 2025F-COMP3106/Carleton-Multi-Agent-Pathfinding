@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP4904",
+      "building": "Tory Building",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "PSYC3931",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON4440",
+      "building": "Engineering Design Center",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "BUSI4663",
+      "building": "Teraanga Commons",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PHYS4558",
+      "building": "Social Sciences Research Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "PHYS3564",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    }
+  ]
+}

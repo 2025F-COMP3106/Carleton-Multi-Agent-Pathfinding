@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP496",
+      "building": "Herzberg Laboratories",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "MATH444",
+      "building": "Tennis Centre",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "MATH4788",
+      "building": "The Minto Centre for Advanced Studies in Engineering",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "ECON3751",
+      "building": "Azrieli Theatre",
+      "start_time": "16:05",
+      "end_time": "17:25"
+    }
+  ]
+}

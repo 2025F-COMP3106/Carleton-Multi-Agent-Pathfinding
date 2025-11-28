@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4472",
+      "building": "Athletics Building",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "COMP4768",
+      "building": "Walkway",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "ECON4590",
+      "building": "Social Sciences Research Building",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "HIST3526",
+      "building": "Richcraft Hall",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

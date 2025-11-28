@@ -1,0 +1,34 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4434",
+      "building": "Steacie Building",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "MATH3180",
+      "building": "Dunton Tower",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PSYC3836",
+      "building": "Loeb Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "ECON4400",
+      "building": "Visualization & Simulation Building",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    },
+    {
+      "class_name": "CHEM470",
+      "building": "Social Sciences Research Building",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

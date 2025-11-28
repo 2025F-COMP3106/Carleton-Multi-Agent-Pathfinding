@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4359",
+      "building": "Colonel By Child Care Centre",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "BUSI4938",
+      "building": "Teraanga Commons",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "ECON3228",
+      "building": "Colonel By Child Care Centre",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "ECON4753",
+      "building": "Tennis Centre",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

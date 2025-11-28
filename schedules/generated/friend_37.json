@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC487",
+      "building": "Visualization & Simulation Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "COMP3466",
+      "building": "Azrieli Pavilion",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

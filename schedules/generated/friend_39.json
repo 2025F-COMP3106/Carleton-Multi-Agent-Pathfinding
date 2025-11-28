@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM4173",
+      "building": "Tennis Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "ECON4240",
+      "building": "Parking Garage (P18)",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4535",
+      "building": "Architecture Building",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "PHYS3112",
+      "building": "Tennis Centre",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "COMP3219",
+      "building": "Social Sciences Research Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "HIST4707",
+      "building": "Maintenance Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

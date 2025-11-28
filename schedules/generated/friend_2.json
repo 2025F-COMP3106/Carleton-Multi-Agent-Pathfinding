@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH493",
+      "building": "Tennis Centre",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "BUSI4383",
+      "building": "National Wildlife Research Centre",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "HIST4697",
+      "building": "Nicol Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

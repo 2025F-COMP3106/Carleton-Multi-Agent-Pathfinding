@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI381",
+      "building": "Architecture Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "MATH3388",
+      "building": "Canal Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3270",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "HIST4991",
+      "building": "Pigiarvik",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "MATH4762",
+      "building": "Steacie Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "MATH3293",
+      "building": "Visualization & Simulation Building",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    }
+  ]
+}

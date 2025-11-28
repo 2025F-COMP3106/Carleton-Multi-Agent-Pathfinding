@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI4993",
+      "building": "Parking Garage (P18)",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "HIST3562",
+      "building": "Maintenance Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PHYS3915",
+      "building": "Mackenzie Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

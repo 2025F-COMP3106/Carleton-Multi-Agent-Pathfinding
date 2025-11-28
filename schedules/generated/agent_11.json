@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4649",
+      "building": "Engineering Design Center",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "PSYC335",
+      "building": "Dunton Tower",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "HIST3769",
+      "building": "Paterson Hall",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "COMP3214",
+      "building": "Loeb Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

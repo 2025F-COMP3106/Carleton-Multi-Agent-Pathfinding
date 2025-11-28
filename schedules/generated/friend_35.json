@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH4188",
+      "building": "Herzberg Laboratories",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "CHEM3916",
+      "building": "Engineering Design Center",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    }
+  ]
+}

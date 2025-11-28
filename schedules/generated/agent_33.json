@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3865",
+      "building": "Norm Fenn Gym",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "ECON3839",
+      "building": "Paterson Hall",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    },
+    {
+      "class_name": "HIST479",
+      "building": "Loeb Building",
+      "start_time": "17:35",
+      "end_time": "18:55"
+    }
+  ]
+}

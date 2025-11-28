@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM4361",
+      "building": "MacOdrum Library",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "BUSI3505",
+      "building": "St. Patrick's Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

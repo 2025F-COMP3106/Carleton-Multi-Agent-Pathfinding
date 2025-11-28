@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON4903",
+      "building": "Dunton Tower",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "COMP3533",
+      "building": "St. Patrick's Building",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "CHEM3819",
+      "building": "St. Patrick's Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

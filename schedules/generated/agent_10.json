@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3485",
+      "building": "Walkway",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "PHYS4306",
+      "building": "Tennis Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "MATH4718",
+      "building": "Visualization & Simulation Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST3864",
+      "building": "Azrieli Theatre",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "BUSI3638",
+      "building": "Engineering Design Center",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "MATH4367",
+      "building": "Steacie Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP4415",
+      "building": "Athletics Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "BUSI4265",
+      "building": "Parking Garage (P18)",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "COMP4464",
+      "building": "Engineering Design Center",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "PSYC3487",
+      "building": "Engineering Design Center",
+      "start_time": "17:05",
+      "end_time": "18:25"
+    }
+  ]
+}

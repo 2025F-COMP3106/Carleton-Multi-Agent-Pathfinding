@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST3920",
+      "building": "Engineering Design Center",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "PHYS3538",
+      "building": "Norm Fenn Gym",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "PHYS3426",
+      "building": "St. Patrick's Building",
+      "start_time": "16:05",
+      "end_time": "17:25"
+    },
+    {
+      "class_name": "BUSI4498",
+      "building": "Engineering Design Center",
+      "start_time": "18:05",
+      "end_time": "19:25"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3930",
+      "building": "Tennis Centre",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PSYC3559",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "HIST3477",
+      "building": "Mackenzie Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    },
+    {
+      "class_name": "PHYS4862",
+      "building": "Tory Building",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3174",
+      "building": "National Wildlife Research Centre",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "COMP4694",
+      "building": "Paterson Hall",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "BUSI3657",
+      "building": "Norm Fenn Gym",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PSYC4475",
+      "building": "Loeb Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

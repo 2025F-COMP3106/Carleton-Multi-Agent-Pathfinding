@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3314",
+      "building": "National Wildlife Research Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "COMP4761",
+      "building": "St. Patrick's Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "CHEM382",
+      "building": "Alumni Hall",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

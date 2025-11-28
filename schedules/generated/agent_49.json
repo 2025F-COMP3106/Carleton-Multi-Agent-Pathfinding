@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4434",
+      "building": "Social Sciences Research Building",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "PSYC459",
+      "building": "Architecture Building",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    }
+  ]
+}

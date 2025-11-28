@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4664",
+      "building": "Steacie Building",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "ECON3345",
+      "building": "Norm Fenn Gym",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "MATH4898",
+      "building": "Nideyin\u00e0n Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PHYS355",
+      "building": "The Minto Centre for Advanced Studies in Engineering",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

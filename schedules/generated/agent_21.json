@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4356",
+      "building": "Norm Fenn Gym",
+      "start_time": "09:05",
+      "end_time": "10:25"
+    },
+    {
+      "class_name": "CHEM4896",
+      "building": "Steacie Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "CHEM3239",
+      "building": "Southam Hall",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "MATH3340",
+      "building": "Architecture Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

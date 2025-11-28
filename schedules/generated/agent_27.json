@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3221",
+      "building": "Tennis Centre",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "BUSI4623",
+      "building": "Norm Fenn Gym",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "HIST3139",
+      "building": "Walkway",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

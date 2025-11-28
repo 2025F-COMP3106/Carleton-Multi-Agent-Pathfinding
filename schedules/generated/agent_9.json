@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH3195",
+      "building": "Azrieli Pavilion",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "MATH4209",
+      "building": "Alumni Hall",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PHYS4137",
+      "building": "Social Sciences Research Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "PHYS4175",
+      "building": "Mackenzie Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

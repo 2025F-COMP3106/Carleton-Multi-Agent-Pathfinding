@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI3120",
+      "building": "Herzberg Laboratories",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "CHEM4136",
+      "building": "Richcraft Hall",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    }
+  ]
+}

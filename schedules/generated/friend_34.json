@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3401",
+      "building": "Visualization & Simulation Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "ECON3992",
+      "building": "Tennis Centre",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

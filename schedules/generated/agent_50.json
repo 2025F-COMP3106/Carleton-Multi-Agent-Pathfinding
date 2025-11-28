@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP3150",
+      "building": "Engineering Design Center",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "PHYS3668",
+      "building": "Pigiarvik",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "CHEM3335",
+      "building": "Nicol Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    },
+    {
+      "class_name": "CHEM3963",
+      "building": "Canal Building",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

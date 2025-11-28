@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS482",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "HIST3397",
+      "building": "Social Sciences Research Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

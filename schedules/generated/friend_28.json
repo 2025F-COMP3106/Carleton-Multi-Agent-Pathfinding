@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON471",
+      "building": "Human Computer Interaction Building",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "HIST4295",
+      "building": "Norm Fenn Gym",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "MATH3121",
+      "building": "Nicol Building",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "PHYS4254",
+      "building": "Pigiarvik",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

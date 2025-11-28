@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON3709",
+      "building": "National Wildlife Research Centre",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "ECON471",
+      "building": "Paterson Hall",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "MATH427",
+      "building": "Steacie Building",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

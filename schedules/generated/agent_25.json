@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI3983",
+      "building": "Azrieli Theatre",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "COMP3158",
+      "building": "Norm Fenn Gym",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "PSYC3229",
+      "building": "Azrieli Theatre",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

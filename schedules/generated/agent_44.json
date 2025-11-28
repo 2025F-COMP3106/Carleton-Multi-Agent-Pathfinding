@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON3965",
+      "building": "Azrieli Theatre",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "ECON3274",
+      "building": "Norm Fenn Gym",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "ECON462",
+      "building": "Azrieli Theatre",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    },
+    {
+      "class_name": "HIST3763",
+      "building": "Health Sciences Building",
+      "start_time": "18:05",
+      "end_time": "19:25"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4872",
+      "building": "Richcraft Hall",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "BUSI3100",
+      "building": "Nicol Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

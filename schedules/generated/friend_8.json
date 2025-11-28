@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS3321",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "CHEM4525",
+      "building": "Walkway",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "COMP3649",
+      "building": "Walkway",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

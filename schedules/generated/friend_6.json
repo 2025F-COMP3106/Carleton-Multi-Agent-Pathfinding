@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4989",
+      "building": "National Wildlife Research Centre",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "PHYS4575",
+      "building": "Architecture Building",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "PSYC3152",
+      "building": "Nesbitt Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

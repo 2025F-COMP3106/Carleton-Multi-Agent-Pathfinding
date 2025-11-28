@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM3223",
+      "building": "Azrieli Pavilion",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "MATH3999",
+      "building": "Dunton Tower",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS4985",
+      "building": "Pigiarvik",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "COMP4604",
+      "building": "Teraanga Commons",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    },
+    {
+      "class_name": "MATH3255",
+      "building": "Mackenzie Building",
+      "start_time": "17:35",
+      "end_time": "18:55"
+    }
+  ]
+}

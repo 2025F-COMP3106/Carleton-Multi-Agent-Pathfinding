@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "COMP4824",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "PHYS3298",
+      "building": "St. Patrick's Building",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    }
+  ]
+}

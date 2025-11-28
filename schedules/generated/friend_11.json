@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH4405",
+      "building": "Azrieli Theatre",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "COMP3578",
+      "building": "Athletics Building",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "ECON4398",
+      "building": "St. Patrick's Building",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

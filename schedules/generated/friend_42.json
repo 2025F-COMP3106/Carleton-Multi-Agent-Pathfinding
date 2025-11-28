@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "ECON4327",
+      "building": "Tennis Centre",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "MATH3827",
+      "building": "Norm Fenn Gym",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "COMP3632",
+      "building": "Nesbitt Building",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    },
+    {
+      "class_name": "ECON423",
+      "building": "Nesbitt Building",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

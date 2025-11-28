@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI3509",
+      "building": "Tennis Centre",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "ECON4823",
+      "building": "Nicol Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "CHEM4777",
+      "building": "Parking Garage (P18)",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    }
+  ]
+}

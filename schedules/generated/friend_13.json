@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "BUSI4957",
+      "building": "Southam Hall",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    },
+    {
+      "class_name": "ECON472",
+      "building": "Health Sciences Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    },
+    {
+      "class_name": "HIST3721",
+      "building": "Dunton Tower",
+      "start_time": "16:35",
+      "end_time": "17:55"
+    }
+  ]
+}

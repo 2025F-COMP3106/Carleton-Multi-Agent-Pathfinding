@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH424",
+      "building": "Maintenance Building",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "PSYC4419",
+      "building": "Paterson Hall",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    }
+  ]
+}

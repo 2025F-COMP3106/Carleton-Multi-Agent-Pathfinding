@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS3610",
+      "building": "Alumni Hall",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "PHYS3242",
+      "building": "Nideyin\u00e0n Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

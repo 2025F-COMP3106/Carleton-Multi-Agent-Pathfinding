@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST3568",
+      "building": "Azrieli Theatre",
+      "start_time": "08:35",
+      "end_time": "09:55"
+    },
+    {
+      "class_name": "PSYC4245",
+      "building": "Paterson Hall",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "HIST3693",
+      "building": "Maintenance Building",
+      "start_time": "13:05",
+      "end_time": "14:25"
+    },
+    {
+      "class_name": "PHYS4749",
+      "building": "Paterson Hall",
+      "start_time": "15:05",
+      "end_time": "16:25"
+    }
+  ]
+}

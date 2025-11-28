@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC3439",
+      "building": "Loeb Building",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "BUSI3263",
+      "building": "Alumni Hall",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "CHEM3551",
+      "building": "Tory Building",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "PHYS4759",
+      "building": "Advanced Research and Innovation in Smart Environments (ARISE) Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

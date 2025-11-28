@@ -1,0 +1,22 @@
+{
+  "schedule": [
+    {
+      "class_name": "CHEM4853",
+      "building": "Engineering Design Center",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "BUSI352",
+      "building": "Maintenance Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "BUSI3870",
+      "building": "Paterson Hall",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4660",
+      "building": "Mackenzie Building",
+      "start_time": "10:35",
+      "end_time": "11:55"
+    },
+    {
+      "class_name": "BUSI4275",
+      "building": "Tennis Centre",
+      "start_time": "12:35",
+      "end_time": "13:55"
+    }
+  ]
+}

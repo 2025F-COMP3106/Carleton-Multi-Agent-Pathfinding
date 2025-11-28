@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "HIST4930",
+      "building": "Architecture Building",
+      "start_time": "08:05",
+      "end_time": "09:25"
+    },
+    {
+      "class_name": "HIST4720",
+      "building": "Nicol Building",
+      "start_time": "10:05",
+      "end_time": "11:25"
+    },
+    {
+      "class_name": "BUSI3220",
+      "building": "Athletics Building",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "MATH4236",
+      "building": "St. Patrick's Building",
+      "start_time": "14:35",
+      "end_time": "15:55"
+    }
+  ]
+}

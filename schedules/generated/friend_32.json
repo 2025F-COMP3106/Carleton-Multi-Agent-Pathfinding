@@ -1,0 +1,16 @@
+{
+  "schedule": [
+    {
+      "class_name": "MATH3938",
+      "building": "Norm Fenn Gym",
+      "start_time": "11:05",
+      "end_time": "12:25"
+    },
+    {
+      "class_name": "PSYC4329",
+      "building": "National Wildlife Research Centre",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    }
+  ]
+}

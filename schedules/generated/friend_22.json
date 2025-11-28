@@ -1,0 +1,28 @@
+{
+  "schedule": [
+    {
+      "class_name": "PSYC4524",
+      "building": "Southam Hall",
+      "start_time": "12:05",
+      "end_time": "13:25"
+    },
+    {
+      "class_name": "COMP3107",
+      "building": "Athletics Building",
+      "start_time": "13:35",
+      "end_time": "14:55"
+    },
+    {
+      "class_name": "CHEM3828",
+      "building": "Alumni Hall",
+      "start_time": "16:05",
+      "end_time": "17:25"
+    },
+    {
+      "class_name": "BUSI3918",
+      "building": "Nicol Building",
+      "start_time": "18:35",
+      "end_time": "19:55"
+    }
+  ]
+}

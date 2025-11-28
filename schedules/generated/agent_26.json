@@ -1,0 +1,34 @@
+{
+  "schedule": [
+    {
+      "class_name": "PHYS4982",
+      "building": "MacOdrum Library",
+      "start_time": "09:35",
+      "end_time": "10:55"
+    },
+    {
+      "class_name": "COMP4843",
+      "building": "Maintenance Building",
+      "start_time": "11:35",
+      "end_time": "12:55"
+    },
+    {
+      "class_name": "MATH3977",
+      "building": "Southam Hall",
+      "start_time": "14:05",
+      "end_time": "15:25"
+    },
+    {
+      "class_name": "BUSI3857",
+      "building": "Carleton Technology & Training Centre",
+      "start_time": "15:35",
+      "end_time": "16:55"
+    },
+    {
+      "class_name": "HIST4380",
+      "building": "Architecture Building",
+      "start_time": "17:35",
+      "end_time": "18:55"
+    }
+  ]
+}
