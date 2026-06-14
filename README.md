@@ -7,7 +7,7 @@ The system models campus routes as a weighted graph, uses A* search to plan path
 ## Highlights
 
 - **Campus graph modeling:** builds a pedestrian network from OpenStreetMap data and connects named buildings to nearby outdoor paths and tunnel nodes.
-- **A* pathfinding:** computes shortest routes across outdoor, tunnel-only, or unrestricted path options.
+- **A-star pathfinding:** computes shortest routes across outdoor, tunnel-only, or unrestricted path options.
 - **Weather-aware decisions:** uses a fuzzy rule system to decide whether a student is likely to prefer tunnels based on temperature, precipitation, and tunnel detour cost.
 - **Multi-agent rendezvous planning:** finds feasible meeting points along a friend's route while ensuring the agent can still reach their next class on time.
 - **Simulation + evaluation:** compares an intelligent social-time-maximizing agent against a naive direct-path baseline and analyzes the results with a paired t-test.
